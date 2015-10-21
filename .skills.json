@@ -1,0 +1,31 @@
+{
+  "note": "Demo file for Athena Testing",
+  "groups": [
+    {
+      "label": "Week 1",
+      "sections": [
+        {
+          "label": "Ruby",
+          "skills": [
+            {
+              "label": "Enumerable",
+              "description": "I can describe the Enumerable mixin",
+              "resources": [
+                {
+                  "label": "Ruby Docs Enumerable",
+                  "url": "http://ruby-doc.org/core-2.1.5/Enumerable.html",
+                  "description": "Complete Enumerable Documentation"
+                },
+                {
+                  "label": "Ruby Drill Enumerable Methods",
+                  "repo": "ruby-drill-enumerable-methods-challenge",
+                  "description": "Learn to use Enumerable's other methods "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
